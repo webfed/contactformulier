@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Contactformulier feature.
+ */
+
+include_once 'contactformulier.features.inc';
